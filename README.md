@@ -8,4 +8,8 @@ we develop MERA, a meta-learning based runtime adaptation method, which efficien
 We implement MERA using Python under PyTorch and evaluate its performance on a physical testbed that consists of 50 nodes.
 
 1. pycache: files
-2. 
+2. log-files: temp output
+3. output: result
+4. traing data: for training tasks
+5. testing data: for testing tasks
+6. *.py: implementation
